@@ -1,0 +1,14 @@
+////////////////////////////////////////////////////////////////////////
+//
+//  Copyright (c) 2010-2011, Turtle Rock Studios.  All rights reserved.
+//
+//	Timer.h
+//  Description: public functions for timer functionality
+//
+////////////////////////////////////////////////////////////////////////
+
+void TimerInitialize();
+
+double TimerGetTime64();
+
+float TimerGetTime32();
